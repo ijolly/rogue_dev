@@ -1,0 +1,6 @@
+- > http://rogueliketutorials.com/tutorials/tcod/part-0/
+    ^ Where the tutorial is coming from
+    ^ This is a link to part 0
+
+- > https://stackoverflow.com/a/419185
+    ^ Gives explanation for why we do <if __name__ == '__main__':>
