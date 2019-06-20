@@ -4,3 +4,7 @@
 
 - > https://stackoverflow.com/a/419185
     ^ Gives explanation for why we do <if __name__ == '__main__':>
+
+- > http://www.roguebasin.com/index.php?title=Complete_Roguelike_Tutorial,_using_Python%2Blibtcod,_extras#A.2A_Pathfinding
+- > https://en.wikipedia.org/wiki/A*_search_algorithm
+    ^ Give explanation for A* search algorithm used in monster ai

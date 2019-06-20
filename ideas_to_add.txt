@@ -1,0 +1,5 @@
+After part 6
+-> Change notifications to make them pop up on the game client?
+    - Might have to resize window
+    - Find how to write to screen
+-> Adjust damage algorithm
