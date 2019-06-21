@@ -15,3 +15,6 @@ After part 7
 -> Maybe make it so we can pick up multiple items at once
 -> Add equipment that buff's stats such as defense and power
 -> Display stats on bottom?
+
+After part 8
+-> Obviously add more spells, ideas?
