@@ -1,3 +1,7 @@
+-> Obviously add graphics if you wanna
+
+-> Add number pad controls as well
+
 After part 6
 -> Change notifications to make them pop up on the game client?
     - Might have to resize window
@@ -7,3 +11,7 @@ After part 6
 
 After part 7
 -> Change the sizing of message log and health bar, make look pretty
+-> Add inventory to monsters, have them drop items on death
+-> Maybe make it so we can pick up multiple items at once
+-> Add equipment that buff's stats such as defense and power
+-> Display stats on bottom?
