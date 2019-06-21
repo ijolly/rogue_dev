@@ -3,3 +3,7 @@ After part 6
     - Might have to resize window
     - Find how to write to screen
 -> Adjust damage algorithm
+
+
+After part 7
+-> Change the sizing of message log and health bar, make look pretty
