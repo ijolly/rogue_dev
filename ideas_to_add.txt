@@ -18,3 +18,10 @@ After part 7
 
 After part 8
 -> Obviously add more spells, ideas?
+
+After part 9
+-> Can change the way functions are written by just passing the constants dictionary for conciseness
+-> Clarify menu, show that a b and c are the ways to pick the options
+-> Fix option b text in main menu (displays other characters behind)
+-> Allow a pause menu when pressing esc so we can choose to save in game
+-> Create an info screen when starting new game
