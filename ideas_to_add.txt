@@ -29,3 +29,7 @@ After part 9
 After part 10
 -> Make it so that stairs and other objects can't spawn in the same place
 -> Change wait function to maybe heal for 1 hp? in exchange for not moving?
+
+After part 11
+-> Look into re-balancing stats
+-> Move the enemy and item functions into other file (out of game_map)
