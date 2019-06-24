@@ -15,3 +15,4 @@ Broken up into several parts
  - Part 8 - Items and Inventory
  - Part 9 - Ranged Scrolls and Targeting
  - Part 10 - Saving and Loading
+ - Part 11 - Delving into the dungeon

@@ -25,3 +25,7 @@ After part 9
 -> Fix option b text in main menu (displays other characters behind)
 -> Allow a pause menu when pressing esc so we can choose to save in game
 -> Create an info screen when starting new game
+
+After part 10
+-> Make it so that stairs and other objects can't spawn in the same place
+-> Change wait function to maybe heal for 1 hp? in exchange for not moving?
