@@ -33,3 +33,6 @@ After part 10
 After part 11
 -> Look into re-balancing stats
 -> Move the enemy and item functions into other file (out of game_map)
+
+After part 12
+-> Add more equipment slots for things such as head and armor

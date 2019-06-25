@@ -17,4 +17,4 @@ Broken up into several parts
  - Part 10 - Saving and Loading
  - Part 11 - Delving into the dungeon
  - Part 12 - Increasing Difficulty
- 
+ - Part 13 - Gearing Up
