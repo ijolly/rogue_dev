@@ -16,3 +16,5 @@ Broken up into several parts
  - Part 9 - Ranged Scrolls and Targeting
  - Part 10 - Saving and Loading
  - Part 11 - Delving into the dungeon
+ - Part 12 - Increasing Difficulty
+ 
